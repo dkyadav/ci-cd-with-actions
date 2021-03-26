@@ -1,5 +1,5 @@
 [![React App CI](https://github.com/dkyadav/ci-cd-with-actions/actions/workflows/ci.yml/badge.svg)](https://github.com/dkyadav/ci-cd-with-actions/actions/workflows/ci.yml)
-<h1 align="center">CI/CD with GitHub Actions</h1>
+<h1 align="center">CI/CD with GitHub Actions test</h1>
 <h5 align="center">@kmkumaran @kaverma</h3>
 
 <p align="center">
